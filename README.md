@@ -1,6 +1,10 @@
 ### Olá, eu sou a Luivia 👋
 .....
-
+<div align="center">
+  <a href="https://github.com/luivia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luivia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luivia&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <!--
 **luivia/luivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
