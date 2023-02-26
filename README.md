@@ -1,8 +1,6 @@
 ### Olá, eu sou a Luivia 👋
 
-- 🌱 Estou estudando: Front-end através do programa Oracle Next Education (Oracle + Alura)
-- 👯 Acadêmica de Análise e Desenvolvimento de Sistemas
-- 😄 Pronomes: ela/dela
+- 👯 Formada em Análise e Desenvolvimento de Sistemas. Pós-graduanda em Segurança da Informação.
 
 <div align="center">
   <a href="https://github.com/luivia">
