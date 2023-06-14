@@ -1,7 +1,6 @@
 ### Olá, eu sou a Luivia 👋
 
-- 👯 Formada em Análise e Desenvolvimento de Sistemas. Pós-graduanda em Segurança da Informação.
-
+- 👯 Formada em Análise e Desenvolvimento de Sistemas. Pós-graduanda em Engenharia de Software.
 <div align="center">
   <a href="https://github.com/luivia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luivia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
